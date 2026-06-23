@@ -99,3 +99,8 @@ Review Pull Request
 
 ![](screenshots/11_pull_request_merged.png)
 
+## Часть 10. Конфликт внутри Pull Request
+
+![](screenshots/12_pr_conflict.png)
+
+![](screenshots/13_pr_conflict_resolved.png)
