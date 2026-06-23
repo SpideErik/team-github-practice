@@ -45,4 +45,8 @@
 
 ![](screenshots/04_pull_eric2.png)
 
+### Используемые инструменты
 
+- Git;
+- GitHub;
+- VS Code
