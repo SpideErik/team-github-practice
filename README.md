@@ -45,4 +45,7 @@
 
 ![](screenshots/04_pull_eric2.png)
 
+## Часть 5  Первая проблема: два участника меняют разные файлы
+
+![](screenshots/05_commit_history.png)
 
