@@ -81,3 +81,21 @@
 ![](screenshots/07_merge_conflict.png)
 
 ![](screenshots/08_conflict_resolved.png)
+
+## Часть 8 Работа через отдельные ветки
+
+## Часть 9 Pull Request
+
+Создание Pull Request
+
+![](screenshots/09_pull_request.png)
+
+Review Pull Request
+
+![](screenshots/10_pull_request_review.png)
+
+
+Завершение Pull Request (merge)
+
+![](screenshots/11_pull_request_merged.png)
+
