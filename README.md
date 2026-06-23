@@ -60,3 +60,11 @@
 - Git;
 - GitHub;
 - VS Code
+
+Скриншот ошибки push
+
+![](screenshots/06_push_rejected.png)
+
+Скриншот нового дерева
+
+![](screenshots/06_new_tree.png)
