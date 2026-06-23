@@ -33,3 +33,8 @@
 
 ![](screenshots/02_clone_eric2_2.png)
 
+## Часть 3
+
+Скриншот пуш
+
+![](screenshots/03_first_push.png)
