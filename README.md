@@ -104,3 +104,10 @@ Review Pull Request
 ![](screenshots/12_pr_conflict.png)
 
 ![](screenshots/13_pr_conflict_resolved.png)
+
+## Часть 11. Fetch: посмотреть изменения, но не забирать сразу
+
+![](screenshots/14_fetch_changes.png)
+
+### Разница между Fetch и Pull
+Fetch позволяет увидеть, что на GitHub появились новые изменения, но не применяет их сразу к локальным файлам. Pull получает изменения и сразу объединяет их с текущей рабочей версией.
